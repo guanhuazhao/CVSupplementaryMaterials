@@ -1,0 +1,11 @@
+[num,text,raw]=xlsread('61.csv');
+data6=num;
+[num,text,raw]=xlsread('71.csv');
+data7=num;
+[num,text,raw]=xlsread('81.csv');
+data8=num;
+[num,text,raw]=xlsread('91.csv');
+data9=num;
+[num,text,raw]=xlsread('11.csv');
+data10=num;
+standard=xlsread('mapxia.xlsx','sheet1');
